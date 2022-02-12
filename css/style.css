@@ -1,0 +1,32 @@
+body{
+    font:  20px Calibri;
+    color: white;
+}
+.navbar {
+    background-color:rgb(28, 46, 46);
+}
+
+.quemsomos{
+    background-color:rgb(27, 22, 34);
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.nossosentrevistadores{
+    background-color: rgb(32, 27, 41);
+    color: white;
+}
+
+.nossosentrevistados{
+    background-color: rgb(37, 31, 48);
+    color: white;
+}
+
+.bg-footer{
+    background-color: rgb(42, 35, 54);
+    color:white
+}
